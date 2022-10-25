@@ -1,0 +1,19 @@
+{
+  "name": "invasive_species_dashboard",
+  "version": "1.0.0",
+  "description": "invasive species dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JagJones/INVASIVE_SPECIES_DASHBOARD.git"
+  },
+  "author": "Hannah Trevino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JagJones/INVASIVE_SPECIES_DASHBOARD/issues"
+  },
+  "homepage": "https://github.com/JagJones/INVASIVE_SPECIES_DASHBOARD#readme"
+}
